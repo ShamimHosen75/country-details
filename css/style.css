@@ -1,0 +1,31 @@
+/* Font  */
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;700&display=swap");
+
+/* Base Style  */
+* {
+  font-family: "Nunito", sans-serif;
+}
+body {
+  font-size: 16px;
+  background-color: #f4f3fd;
+}
+.logo {
+  max-width: 250px;
+}
+#navigation {
+  margin-bottom: 30px;
+}
+
+.country-name {
+  font-size: 16px;
+  font-weight: 700;
+}
+p.country-info {
+  font-size: 14px;
+  color: #585858;
+  margin-bottom: 0;
+  overflow-wrap: anywhere;
+}
+label.btn {
+  width: 100%;
+}
